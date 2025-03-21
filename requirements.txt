@@ -2,5 +2,4 @@ streamlit
 openai-whisper
 librosa
 numpy
-ffmpeg
 torch
